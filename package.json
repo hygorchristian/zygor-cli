@@ -26,7 +26,7 @@
     "crypto": "^1.0.1",
     "gluegun": "^2.1.0",
     "pluralize": "^8.0.0",
-    "react-native": "^0.63.2"
+    "react-native": "^0.64.1"
   },
   "devDependencies": {
     "jest": "^23.6.0",
